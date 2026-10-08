@@ -2766,3 +2766,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
 }
+
+.dev-badge-link:hover {
+  background: var(--color-surface-hover) !important;
+  border-color: var(--color-primary) !important;
+  color: var(--color-primary) !important;
+  transform: translateY(-1px);
+}

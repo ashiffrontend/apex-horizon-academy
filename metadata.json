@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon Academy",
+  "description": "Apex Horizon Academy - Inspiring excellence through innovation, leadership, and modern education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
